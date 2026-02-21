@@ -7,13 +7,23 @@
 
 ## 🖼 Key Projects
 
-### 1. The Mystery Machine (Scooby-Doo Fan Art)
+### 1.  Abandoned Circus Assets
+A complex scene featuring multiple unique assets. This project demonstrates my ability to create atmospheric environments and manage multiple assets within a single scene
+![Circus](./Abandoned_Circus_Diorama.jpg)
+* **Main Scene:** Includes 4 unique types of circus wagons, environment props, and thematic layout.
+* **Technical Details:** All models are integrated into a single coordinate system, ready for game engine import.
+* **Source Files:** Full scene available in `.fbx` format in the `/Models` folder.
+
+#### Scene Breakdown (Wireframes & Details):
+![Circus View](./Topology_Circus.png)
+![Wagon 1](./Topology_Wagon_1.png)
+![Wagon 2](./Topology_Wagon_2.png)
+![Wagon 3](./Topology_Wagon_3.png)
+![Wagon 4](./Topology_Wagon_4.png)
+
+### 2. The Mystery Machine (Scooby-Doo Fan Art)
 A stylized 3D model of the iconic van. Focused on capturing the unique silhouette and vibrant color palette.
 ![Scooby Doo](./The_Mystery_Machine.png)
-
-### 2. Abandoned Circus Assets
-Detailed environment props including circus wagons. This project showcases work with more complex geometries and atmospheric storytelling.
-![Circus](./Abandoned_Circus_Diorama.jpg)
 
 ### 3. Playing Cards Composition
 An artistic experiment inspired by playing cards, created from scratch to practice composition and lighting.
