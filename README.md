@@ -16,9 +16,13 @@ A complex scene featuring multiple unique assets. This project demonstrates my a
 
 #### Scene Breakdown (Wireframes & Details):
 ![Circus View](./Topology_Circus.png)
+
 ![Wagon 1](./Topology_Wagon_1.png)
+
 ![Wagon 2](./Topology_Wagon_2.png)
+
 ![Wagon 3](./Topology_Wagon_3.png)
+
 ![Wagon 4](./Topology_Wagon_4.png)
 
 ### 2. The Mystery Machine (Scooby-Doo Fan Art)
